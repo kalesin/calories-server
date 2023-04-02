@@ -1,0 +1,317 @@
+{
+    "_id": "0000000000017",
+    "misc_tags": ["en:nutriscore-not-computed", "en:nutriscore-missing-category", "en:ecoscore-not-computed", "en:main-countries-fr-ingredients-not-in-country-language", "en:main-countries-fr-only-1-field-in-country-language", "en:main-countries-old-product-without-scans-in-2020"],
+    "pnns_groups_2_tags": ["unknown", "missing-category"],
+    "data_quality_errors_tags": [],
+    "languages_hierarchy": ["en:french"],
+    "additives_original_tags": [],
+    "traces": "",
+    "max_imgid": "2",
+    "data_quality_bugs_tags": [],
+    "removed_countries_tags": [],
+    "vitamins_tags": [],
+    "pnns_groups_1_tags": ["unknown", "missing-category"],
+    "categories_properties": {},
+    "interface_version_created": "20150316.jqm2",
+    "ingredients": [],
+    "additives_prev_original_tags": [],
+    "languages_codes": {
+        "fr": 3
+    },
+    "allergens_tags": [],
+    "last_image_dates_tags": ["2018-06-15", "2018-06", "2018"],
+    "ecoscore_tags": ["unknown"],
+    "product_name_fr": "Vitória crackers",
+    "ingredients_text_debug": null,
+    "editors_tags": ["autorotate-bot", "yuka.YjQ1WVN2VXhpK2s2by9ZRzBUL0V4Tk1wLzUydllVV3ZjZklPSVE9PQ", "kiliweb", "openfoodfacts-contributors"],
+    "completeness": 0.2833333333333333,
+    "countries_hierarchy": ["en:france"],
+    "allergens_from_ingredients": "",
+    "additives_tags": [],
+    "traces_from_user": "(fr) ",
+    "added_countries_tags": [],
+    "images": {
+        "2": {
+            "sizes": {
+                "100": {
+                    "h": 100,
+                    "w": 56
+                },
+                "400": {
+                    "w": 225,
+                    "h": 400
+                },
+                "full": {
+                    "w": 674,
+                    "h": 1200
+                }
+            },
+            "uploaded_t": "1529059087",
+            "uploader": "kiliweb"
+        },
+        "1": {
+            "uploader": "kiliweb",
+            "sizes": {
+                "100": {
+                    "h": 100,
+                    "w": 75
+                },
+                "full": {
+                    "w": 900,
+                    "h": 1200
+                },
+                "400": {
+                    "w": 300,
+                    "h": 400
+                }
+            },
+            "uploaded_t": "1529059082"
+        },
+        "front_fr": {
+            "y2": null,
+            "imgid": "1",
+            "normalize": "0",
+            "rev": "4",
+            "x1": null,
+            "y1": null,
+            "x2": null,
+            "geometry": "0x0-0-0",
+            "sizes": {
+                "100": {
+                    "w": 75,
+                    "h": 100
+                },
+                "200": {
+                    "h": 200,
+                    "w": 150
+                },
+                "400": {
+                    "h": 400,
+                    "w": 300
+                },
+                "full": {
+                    "w": 900,
+                    "h": 1200
+                }
+            },
+            "angle": null,
+            "white_magic": "0"
+        },
+        "ingredients_fr": {
+            "normalize": null,
+            "orientation": "0",
+            "rev": "9",
+            "imgid": "2",
+            "y2": "-1",
+            "white_magic": null,
+            "ocr": 1,
+            "y1": "-1",
+            "x1": "-1",
+            "sizes": {
+                "400": {
+                    "w": 400,
+                    "h": 225
+                },
+                "full": {
+                    "w": 1200,
+                    "h": 674
+                },
+                "100": {
+                    "h": 56,
+                    "w": 100
+                },
+                "200": {
+                    "w": 200,
+                    "h": 112
+                }
+            },
+            "angle": -270,
+            "geometry": "0x0--3--2",
+            "x2": "-1"
+        }
+    },
+    "minerals_tags": [],
+    "additives_debug_tags": [],
+    "popularity_key": 0,
+    "countries_lc": "fr",
+    "data_quality_info_tags": [],
+    "rev": "9",
+    "last_modified_t": 1561463718,
+    "codes_tags": ["code-13", "0000000000xxx", "000000000xxxx", "00000000xxxxx", "0000000xxxxxx", "000000xxxxxxx", "00000xxxxxxxx", "0000xxxxxxxxx", "000xxxxxxxxxx", "00xxxxxxxxxxx", "0xxxxxxxxxxxx"],
+    "amino_acids_tags": [],
+    "countries": "France",
+    "nutrition_grades_tags": ["unknown"],
+    "additives_old_tags": [],
+    "main_countries_tags": [],
+    "no_nutrition_data": "",
+    "_keywords": ["cracker", "vitoria"],
+    "data_quality_warnings_tags": [],
+    "pnns_groups_2": "unknown",
+    "last_image_t": 1529059087,
+    "nutrient_levels": {},
+    "allergens_hierarchy": [],
+    "languages_tags": ["en:french", "en:1"],
+    "interface_version_modified": "20150316.jqm2",
+    "last_modified_by": "kiliweb",
+    "ingredients_that_may_be_from_palm_oil_tags": [],
+    "photographers_tags": ["kiliweb"],
+    "nutrition_data_prepared_per": "100g",
+    "unknown_ingredients_n": 0,
+    "amino_acids_prev_tags": [],
+    "id": "0000000000017",
+    "categories_properties_tags": ["all-products", "categories-unknown", "agribalyse-food-code-unknown", "agribalyse-proxy-food-code-unknown", "ciqual-food-code-unknown", "agribalyse-unknown"],
+    "ingredients_tags": [],
+    "data_quality_tags": [],
+    "last_editor": "autorotate-bot",
+    "nutrient_levels_tags": [],
+    "category_properties": {},
+    "created_t": 1529059080,
+    "unknown_nutrients_tags": [],
+    "countries_tags": ["en:france"],
+    "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-to-be-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:categories-to-be-completed, en:brands-to-be-completed, en:packaging-to-be-completed, en:quantity-to-be-completed, en:product-name-completed, en:photos-to-be-validated, en:photos-uploaded",
+    "ingredients_original_tags": [],
+    "update_key": "eco",
+    "pnns_groups_1": "unknown",
+    "ingredients_hierarchy": [],
+    "nutriments": {
+        "energy-kcal": 375,
+        "carbohydrates": 70.1,
+        "proteins_value": 7.8,
+        "sugars_unit": "",
+        "sugars_100g": 15,
+        "fat_value": 7,
+        "sodium_value": 0.5599999999999999,
+        "saturated-fat_100g": 3.08,
+        "proteins_100g": 7.8,
+        "saturated-fat": 3.08,
+        "energy-kcal_value": 375,
+        "sugars_value": 15,
+        "carbohydrates_unit": "",
+        "fat_100g": 7,
+        "sodium_unit": "g",
+        "salt_unit": "",
+        "carbohydrates_100g": 70.1,
+        "carbohydrates_value": 70.1,
+        "salt_100g": 1.4,
+        "saturated-fat_unit": "",
+        "proteins": 7.8,
+        "sugars": 15,
+        "salt": 1.4,
+        "energy_100g": 1569,
+        "energy_value": 375,
+        "sodium": 0.5599999999999999,
+        "energy_unit": "kcal",
+        "sodium_100g": 0.5599999999999999,
+        "saturated-fat_value": 3.08,
+        "salt_value": 1.4,
+        "proteins_unit": "",
+        "energy": 1569,
+        "fat_unit": "",
+        "fat": 7,
+        "energy-kcal_100g": 375,
+        "energy-kcal_unit": "kcal"
+    },
+    "last_edit_dates_tags": ["2019-06-25", "2019-06", "2019"],
+    "correctors_tags": ["openfoodfacts-contributors", "yuka.YjQ1WVN2VXhpK2s2by9ZRzBUL0V4Tk1wLzUydllVV3ZjZklPSVE9PQ", "autorotate-bot"],
+    "data_sources_tags": ["app-yuka", "apps"],
+    "states_tags": ["en:to-be-completed", "en:nutrition-facts-completed", "en:ingredients-to-be-completed", "en:expiration-date-to-be-completed", "en:packaging-code-to-be-completed", "en:characteristics-to-be-completed", "en:categories-to-be-completed", "en:brands-to-be-completed", "en:packaging-to-be-completed", "en:quantity-to-be-completed", "en:product-name-completed", "en:photos-to-be-validated", "en:photos-uploaded"],
+    "ciqual_food_name_tags": ["unknown"],
+    "packagings": [],
+    "traces_hierarchy": [],
+    "nutrition_score_debug": "no score when the product does not have a category",
+    "countries_debug_tags": [],
+    "languages": {
+        "en:french": 3
+    },
+    "nova_group_debug": "no nova group when the product does not have ingredients",
+    "traces_from_ingredients": "",
+    "creator": "kiliweb",
+    "ingredients_from_palm_oil_tags": [],
+    "code": "0000000000017",
+    "traces_tags": [],
+    "checkers_tags": [],
+    "nucleotides_prev_tags": [],
+    "other_nutritional_substances_tags": [],
+    "nucleotides_tags": [],
+    "nutrition_data_per_debug_tags": [],
+    "nova_group_tags": ["not-applicable"],
+    "product_name": "Vitória crackers",
+    "lang": "fr",
+    "entry_dates_tags": ["2018-06-15", "2018-06", "2018"],
+    "ecoscore_data": {
+        "status": "unknown",
+        "adjustments": {
+            "production_system": {
+                "warning": "no_label"
+            },
+            "packaging": {
+                "non_recyclable_and_non_biodegradable_materials": 1,
+                "value": -15,
+                "warning": "packaging_data_missing"
+            },
+            "threatened_species": {
+                "warning": "ingredients_missing"
+            },
+            "origins_of_ingredients": {
+                "transportation_value_nl": 0.0,
+                "transportation_score_ch": 0,
+                "epi_value": -5.0,
+                "value_fr": -5,
+                "warning": "origins_are_100_percent_unknown",
+                "value_it": -5,
+                "aggregated_origins": [{
+                    "percent": 100,
+                    "origin": "en:unknown"
+                }],
+                "value_ie": -5,
+                "transportation_value_lu": 0.0,
+                "transportation_value_de": 0.0,
+                "value_be": -5,
+                "origins_from_origins_field": ["en:unknown"],
+                "epi_score": 0.0,
+                "transportation_score_lu": 0,
+                "transportation_score_be": 0,
+                "transportation_value_ie": 0.0,
+                "value_ch": -5,
+                "transportation_score_fr": 0,
+                "transportation_value_it": 0.0,
+                "transportation_score_nl": 0,
+                "transportation_score_de": 0,
+                "transportation_value_be": 0.0,
+                "transportation_value_ch": 0.0,
+                "transportation_score_ie": 0,
+                "value_nl": -5,
+                "value_lu": -5,
+                "value_es": -5,
+                "transportation_score_it": 0,
+                "transportation_score_es": 0,
+                "transportation_value_fr": 0.0,
+                "value_de": -5,
+                "transportation_value_es": 0.0
+            }
+        },
+        "missing_agribalyse_match_warning": 1,
+        "missing": {
+            "categories": 1,
+            "packagings": 1,
+            "labels": 1,
+            "ingredients": 1,
+            "origins": 1
+        },
+        "agribalyse": {
+            "warning": "missing_agribalyse_match"
+        }
+    },
+    "allergens": "",
+    "states_hierarchy": ["en:to-be-completed", "en:nutrition-facts-completed", "en:ingredients-to-be-completed", "en:expiration-date-to-be-completed", "en:packaging-code-to-be-completed", "en:characteristics-to-be-completed", "en:categories-to-be-completed", "en:brands-to-be-completed", "en:packaging-to-be-completed", "en:quantity-to-be-completed", "en:product-name-completed", "en:photos-to-be-validated", "en:photos-uploaded"],
+    "minerals_prev_tags": [],
+    "product_name_debug_tags": [],
+    "nutrition_data_per": "100g",
+    "informers_tags": ["yuka.YjQ1WVN2VXhpK2s2by9ZRzBUL0V4Tk1wLzUydllVV3ZjZklPSVE9PQ", "kiliweb", "autorotate-bot"],
+    "data_sources": "App - yuka, Apps",
+    "complete": 0,
+    "vitamins_prev_tags": [],
+    "lc": "fr",
+    "ecoscore_grade": "unknown",
+    "allergens_from_user": "(fr) "
+}
